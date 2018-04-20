@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
-    guid: bb31a3482ffcc4f22b26b59a716940dc
-  - enabled: 1
-    path: Assets/Scenes/GamePlay.unity
+    path: Assets/Scenes/FlappyBrid_GamePlay.unity
     guid: 5e1b7373a80124697a1d16dbb10a21ec
+  - enabled: 1
+    path: Assets/Scenes/FlappyBrid_MainMenu.unity
+    guid: bb31a3482ffcc4f22b26b59a716940dc
