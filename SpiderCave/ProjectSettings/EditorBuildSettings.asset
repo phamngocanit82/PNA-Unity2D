@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
-    guid: d5bd66ef5a5764075a8afbab9a68fd5f
-  - enabled: 1
-    path: Assets/Scenes/GamePlay.unity
+    path: Assets/Scenes/SpiderCave_GamePlay.unity
     guid: 628ffe10e6f8140a2b2fc429f6573740
   - enabled: 1
-    path: Assets/Scenes/LevelMenu.unity
+    path: Assets/Scenes/SpiderCave_LevelMenu.unity
     guid: 9653bc153fa5249f28fe84f14d7e9b20
+  - enabled: 1
+    path: Assets/Scenes/SpiderCave_MainMenu.unity
+    guid: d5bd66ef5a5764075a8afbab9a68fd5f
