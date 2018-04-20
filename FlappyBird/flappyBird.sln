@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flappyBird", "Assembly-CSharp.csproj", "{9B280DAE-57FA-0442-D641-E6706434CC44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlappyBird", "Assembly-CSharp.csproj", "{E3EF6E53-88BE-20EB-65C7-C65330B49779}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9B280DAE-57FA-0442-D641-E6706434CC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9B280DAE-57FA-0442-D641-E6706434CC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9B280DAE-57FA-0442-D641-E6706434CC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9B280DAE-57FA-0442-D641-E6706434CC44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3EF6E53-88BE-20EB-65C7-C65330B49779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3EF6E53-88BE-20EB-65C7-C65330B49779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3EF6E53-88BE-20EB-65C7-C65330B49779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3EF6E53-88BE-20EB-65C7-C65330B49779}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
